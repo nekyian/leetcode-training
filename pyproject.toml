@@ -1,0 +1,9 @@
+[project]
+name = "leetcode-training"
+version = "0.1.0"
+description = "LeetCode solutions in Python, C, and C++"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]
